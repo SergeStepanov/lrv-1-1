@@ -1,0 +1,25 @@
+{
+    "name": "sergu/lrv-1-1",
+    "description": "start laravel",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sergu\\Lrv11\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergey Stepanov",
+            "email": "ser1653285@yandex.ru"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://github.com/SergeStepanov/lrv-1-1.git"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
